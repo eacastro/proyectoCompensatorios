@@ -41,6 +41,13 @@ public class Usuario
 
 	} // Fin establecerPrimerNombre
 
+	public void establecerSegundoNombre( String secName )
+	{
+
+		segundoNombre = secName;
+
+	} fin metodo establecerSegundoNombre
+
 
 
 } // Fin clase Usuario
