@@ -55,6 +55,13 @@ public class Usuario
 
 	} // Fin establecerPrimerApellido
 
+	public void establecerSegundoApellido( String segApellido )
+	{
+
+		segundoApellido = segApellido;
+
+	} // Fin del metodo establecerSegundoApellido
+
 
 
 } // Fin clase Usuario
