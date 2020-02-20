@@ -34,6 +34,13 @@ public class Usuario
 
 	} // Fin obtenerSegundoApellido
 
+	public void establecerPrimerNombre( String fName )
+	{
+
+		primerNombre = fName;
+
+	} // Fin establecerPrimerNombre
+
 
 
 } // Fin clase Usuario
