@@ -6,6 +6,17 @@ public class Usuario
 	private String primerApellido;
 	private String segundoApellido;
 
+	public Usuario( String pNombre, String sNombre, String pApellido,
+		String sApellido )
+	{
+
+		primerNombre = pNombre;
+		segundoNombre = sNombre;
+		primerApellido = pApellido;
+		segundoApellido = sApellido;
+
+	} // Fin metodo constructor
+
 	public String obtenerPrimerNombre()
 	{
 	
