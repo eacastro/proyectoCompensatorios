@@ -46,7 +46,14 @@ public class Usuario
 
 		segundoNombre = secName;
 
-	} fin metodo establecerSegundoNombre
+	} // fin metodo establecerSegundoNombre
+
+	public void establecerPrimerApellido( String fLastName )
+	{
+
+		primerApellido = fLastName;
+
+	} // Fin establecerPrimerApellido
 
 
 
